@@ -36,7 +36,7 @@
         </work-item-handler>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier> new Sartworkitem.WorkItemHandler()</identifier>
+            <identifier> new com.billcom.workitem.Sartworkitem()</identifier>
             <parameters/>
             <name>Sartworkitem</name>
         </work-item-handler>

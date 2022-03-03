@@ -44,7 +44,7 @@
             <resolver>mvel</resolver>
             <identifier>new com.billcom.workitem.Sartworkitem()</identifier>
             <parameters/>
-            <name>Sartworkitem </name>
+            <name>Sartworkitem</name>
         </work-item-handler>
     </work-item-handlers>
     <environment-entries/>

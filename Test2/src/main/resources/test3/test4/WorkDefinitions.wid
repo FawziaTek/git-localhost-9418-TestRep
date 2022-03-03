@@ -62,7 +62,7 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
     "displayName" : "Sartworkitem",
     "defaultHandler" : "mvel:new com.billcom.workitem.Sartworkitem()",
     "mavenDependencies" : [
-            "com.billcom.workitem:pik:1.0"
+            "com.billcom:pik:1.0"
 ]
 ]
 

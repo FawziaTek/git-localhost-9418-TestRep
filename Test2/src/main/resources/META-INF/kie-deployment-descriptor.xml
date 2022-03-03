@@ -19,7 +19,7 @@
     <work-item-handlers>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>new com.billcom.workitem.Startworkitem()</identifier>
+            <identifier>new com.billcom.workitem.Startworkitem(ksession, classLoader)</identifier>
             <parameters/>
             <name>Startworkitem</name>
         </work-item-handler>

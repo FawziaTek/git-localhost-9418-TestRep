@@ -63,6 +63,13 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
     "defaultHandler" : "mvel: new com.billcom.workitem.Sartworkitem()",
     "mavenDependencies" : [
             "com.billcom:pik:1.0"
+  ],
+  [
+    "name" : "MigrationWorkitem",
+    "displayName" : "MigrationWorkitem",
+    "defaultHandler" : "mvel: new com.billcom.workitem.MigrationWorkitem()",
+    "mavenDependencies" : [
+            "com.billcom:pik:1.0"
   ]
 ]
 

@@ -52,6 +52,12 @@
             <parameters/>
             <name>RestworkItem</name>
         </work-item-handler>
+        <work-item-handler>
+            <resolver>mvel</resolver>
+            <identifier>new com.billcom.workitem.ChildWorkItem()</identifier>
+            <parameters/>
+            <name>ChildWorkItem</name>
+        </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
     <configurations/>

@@ -79,9 +79,9 @@ import org.drools.core.process.core.datatype.impl.type.ObjectDataType;
             "com.billcom:pik:1.0"
   ]
 ], [
-    "name" : "ChildWorkItem",
-    "displayName" : "ChildWorkItem",
-    "defaultHandler" : "mvel: new com.billcom.workitem.ChildWorkItem()",
+    "name" : "NotificationworkItem",
+    "displayName" : "NotificationworkItem",
+    "defaultHandler" : "mvel: new com.billcom.workitem.NotificationworkItem()",
     "mavenDependencies" : [
             "com.billcom:pik:1.0"
   ]
